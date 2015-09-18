@@ -1,0 +1,36 @@
+
+--------------------[ TimeCounter ]---------------
+
+Name                      Avg. Value    Min. Value    Max. Value         Samples 
+Duality\Frame:                 17.05          0.00        676.01            3553 
+  Update:                       0.05          0.00         33.11            3553 
+    Physics:                    0.01          0.00         14.51            3553 
+      Contacts:                 0.00          0.00          0.85            3553 
+      Controller:               0.00          0.00          0.00            3553 
+      Continous:                0.00          0.00          4.42            3553 
+      AddRemove:                0.00          0.00          0.00            3553 
+      Solve:                    0.00          0.00          6.73            3553 
+    Scene:                      0.01          0.00          0.51            3553 
+    Audio:                      0.00          0.00          3.94            3553 
+  Render:                      16.76          0.00        100.07            3553 
+    SwapBuffers:               16.76          0.00        100.07            3553 
+    CollectDrawcalls:           0.00          0.00          0.00               1 
+    OptimizeDrawcalls:          0.00          0.00          0.00               1 
+    ProcessDrawcalls:           0.00          0.00          0.00               1 
+    PostProcessing:             0.00          0.00          0.00               1 
+  Log:                          8.34          8.34          8.34               1 
+Duality\VisualPicking:          0.00          0.00          0.00               1 
+
+--------------------[ StatCounter ]---------------
+
+Name                                         Avg. Value    Min. Value    Max. Value         Samples 
+Duality\Stats\Audio\NumPlaying2D:                     0             0             0            3553 
+Duality\Stats\Audio\NumPlaying3D:                     0             0             0            3553 
+Duality\Stats\Render\NumDrawcalls:                    0             0             0               1 
+Duality\Stats\Render\NumRawBatches:                   0             0             0               1 
+Duality\Stats\Render\NumMergedBatches:                0             0             0               1 
+Duality\Stats\Render\NumOptimizedBatches:             0             0             0               1 
+Duality\Stats\Memory\TotalUsage:                  14348         12820         15840            3553 
+Duality\Stats\Memory\GarbageCollect0:                10             -             -               - 
+Duality\Stats\Memory\GarbageCollect1:                 2             -             -               - 
+Duality\Stats\Memory\GarbageCollect2:                 1             -             -               - 

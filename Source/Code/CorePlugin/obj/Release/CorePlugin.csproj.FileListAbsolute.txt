@@ -1,0 +1,17 @@
+D:\Development\Git_Repos\Personal\Duality\AI Master\Source\Code\CorePlugin\bin\Release\GamePlugin.core.dll
+D:\Development\Git_Repos\Personal\Duality\AI Master\Source\Code\CorePlugin\bin\Release\GamePlugin.core.pdb
+D:\Development\Git_Repos\Personal\Duality\AI Master\Source\Code\CorePlugin\bin\Release\GamePlugin.core.xml
+D:\Development\Git_Repos\Personal\Duality\AI Master\Source\Code\CorePlugin\bin\Release\Duality.dll
+D:\Development\Git_Repos\Personal\Duality\AI Master\Source\Code\CorePlugin\bin\Release\OpenTK.dll
+D:\Development\Git_Repos\Personal\Duality\AI Master\Source\Code\CorePlugin\bin\Release\FarseerDuality.dll
+D:\Development\Git_Repos\Personal\Duality\AI Master\Source\Code\CorePlugin\bin\Release\NVorbis.dll
+D:\Development\Git_Repos\Personal\Duality\AI Master\Source\Code\CorePlugin\bin\Release\Duality.pdb
+D:\Development\Git_Repos\Personal\Duality\AI Master\Source\Code\CorePlugin\bin\Release\Duality.xml
+D:\Development\Git_Repos\Personal\Duality\AI Master\Source\Code\CorePlugin\bin\Release\OpenTK.pdb
+D:\Development\Git_Repos\Personal\Duality\AI Master\Source\Code\CorePlugin\bin\Release\OpenTK.xml
+D:\Development\Git_Repos\Personal\Duality\AI Master\Source\Code\CorePlugin\bin\Release\FarseerDuality.pdb
+D:\Development\Git_Repos\Personal\Duality\AI Master\Source\Code\CorePlugin\bin\Release\FarseerDuality.xml
+D:\Development\Git_Repos\Personal\Duality\AI Master\Source\Code\CorePlugin\bin\Release\NVorbis.xml
+D:\Development\Git_Repos\Personal\Duality\AI Master\Source\Code\CorePlugin\obj\Release\CorePlugin.csprojResolveAssemblyReference.cache
+D:\Development\Git_Repos\Personal\Duality\AI Master\Source\Code\CorePlugin\obj\Release\GamePlugin.core.dll
+D:\Development\Git_Repos\Personal\Duality\AI Master\Source\Code\CorePlugin\obj\Release\GamePlugin.core.pdb

@@ -1,0 +1,38 @@
+[Core] Info:    Initializing Duality...
+                Operating System: Microsoft Windows NT 6.2.9200.0 (Windows 8)
+                64 Bit Process: True
+                CLR Version: 4.0.30319.42000
+                Processor Count: 8
+[Core] Info:    Initializing OpenAL...
+[Core] Info:        OpenAL Drivers not found. Using 64 Bit software fallback.
+[Core] Info:        Available devices:
+                    Speakers (Realtek High Definition Audio) (Default),
+                    Speakers (Realtek High Definition Audio) (Default)
+[Core] Info:        Current device: OpenAL Soft
+[Core] Info:        256 sources available
+[Core] Info:    Scanning for core plugins...
+[Core] Info:        Plugins\Compatibility.core.dll...
+[Core] Info:            Assembly loaded: Compatibility.core
+[Core] Info:            Assembly loaded: Anonymously Hosted DynamicMethods Assembly
+[Core] Info:    Assembly loaded: System.Xml
+[Core] Info:    Assembly loaded: System.Xml.Linq
+[Core] Info:    DualityApp initialized
+                Debug Mode: False
+                Command line arguments: 
+                Is64BitProcess: True
+[Core] Info:    Initializing core plugins...
+[Core] Info:        Compatibility.core...
+[Core] Info:    Initializing Graphics
+                OpenGL Version: 4.5.0 NVIDIA 353.54
+                Vendor: NVIDIA Corporation
+                Renderer: GeForce GTX 970M/PCIe/SSE2
+                Shading Language Version: 4.50 NVIDIA
+[Core] Info:    Initializing default content..
+[Core] Info:        Assembly loaded: NVorbis
+[Core] Info:    ..done
+[Core] Info:    Graphics window initialized: 
+                Mode: Index: 74, Color: 32 (8888), Depth: 24, Stencil: 0, Samples: 16, Accum: 64 (16161616), Buffers: 2, Stereo: False
+                VSync: On
+                SwapInterval: 1
+                Flags: 
+[Core] Info:    DualityApp terminated
